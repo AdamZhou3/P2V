@@ -2,11 +2,11 @@
 
 
 
-*   get sequence of POIs for each listing within a buffer distance =100  
-*   Train sequences to get POIs vector 
-*   POI vectors clustering and correlation with POI classes 
-*   Sum up surroundings POIs to get listing vector
-*   Listing vector clustering and correlation with price 
+*   Get sequence of POIs for each listing within a buffer distance =100  
+*   Train sequences to get POIs vectors 
+*   Clustering POI vectors and analysis correlation with POI classes
+*   Sum up surroundings POIs to get listing vectors
+*   Clustering listing vectors and analysis correlation with price 
 
 Result:
 

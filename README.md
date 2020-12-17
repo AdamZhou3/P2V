@@ -2,13 +2,11 @@
 
 
 
-*   get sequence of POIs for each listing with a buffer distance =100  #TODO: reorder
-*   train sequences to get POIs vector 
+*   get sequence of POIs for each listing within a buffer distance =100  
+*   Train sequences to get POIs vector 
 *   POI vectors clustering and correlation with POI classes 
 *   Sum up surroundings POIs to get listing vector
-*   listing vector clustering and correlation with price 
-
-
+*   Listing vector clustering and correlation with price 
 
 Result:
 
@@ -17,6 +15,8 @@ Result:
 TODOs:
 
 *   Parameters 
+*   Reorder/shuffle
+*   Skip_gram/ cbow
 *   Buffer distance
 *   Clustering methods
 *   Explore POI vectors 
